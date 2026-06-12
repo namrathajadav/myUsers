@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "dt1T_czO2cc",
+      "firstName": "Namratha",
+      "lastName": "jadav",
+      "fullName": "Namratha Jadav",
+      "userName": "Namratha jadav",
+      "age": "31",
+      "gender": "female",
+      "email": "namrathajadav@gmail.com",
+      "mobile": "8951137827",
+      "address": {
+        "DoorNo": "34/1",
+        "StreetName": "Vinayakanagara",
+        "State": "Karnataka",
+        "City": "Tumkur"
+      }
+    },
+    {
+      "id": "K34xhfJg1yI",
+      "firstName": "kavitha",
+      "lastName": "Rajesh",
+      "fullName": "Kavitha Rajesh",
+      "userName": "Kavitha Rajesh",
+      "age": "22",
+      "gender": "female",
+      "email": "kavitha@gmail.com",
+      "mobile": "8953462512",
+      "address": {
+        "DoorNo": "220",
+        "StreetName": "Gadwal",
+        "State": "TamilNadu",
+        "City": "Chennai"
+      }
+    },
+    {
+      "id": "7imzNTHifr0",
+      "firstName": "Rajendra",
+      "lastName": " Prasadh",
+      "fullName": "Rajendra Prasadh",
+      "userName": " Rajendra Prasadh",
+      "age": "35",
+      "gender": "male",
+      "email": "rajendraprasadh@gmail.com",
+      "mobile": "6362119413",
+      "address": {
+        "DoorNo": "56",
+        "StreetName": "Kapali",
+        "State": "Goa",
+        "City": "Panaji"
+      }
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
